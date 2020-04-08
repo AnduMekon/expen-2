@@ -8,10 +8,10 @@ class Ck extends React.Component {
     render() {
         return (
             <div>
-            <h1> this is ck</h1>
+                <h1> this is ck</h1>
             </div>
         )
     }
 }
 
-ReactDOM.render(< Ck />, document.getElementById('app'));
+ReactDOM.render(<Ck />, document.getElementById('app'));
